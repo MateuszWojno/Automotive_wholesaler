@@ -32,7 +32,7 @@ The objective was to:
 
 ## ⚙️ Data Processing (ETL)
 
-* Data cleaning and transformation using **Power Query**
+* Data cleaning and transformation using **T-SQL**
 * Handling missing values and inconsistencies
 * Standardizing categories (products, locations, customer segments)
 * Creating calculated columns and measures
@@ -52,7 +52,7 @@ The objective was to:
 ### 🔁 Customer Behaviour & Retention
 ![Behaviour](Images/behaviour.png)
 
-### 📦 Inventory & Demand Analysis
+### 🔄 Returns & Customer Satisfaction Analysis
 
 ![Returned](Images/returns.png)
 
@@ -71,7 +71,7 @@ The objective was to:
 * Return Rate (%)
 * On-Time Delivery Rate (%)
 * Customer Retention & Repeat Purchase Rate
-* Inventory Rotation & Demand Gap
+* Customer Satisfaction Index
 
 ---
 
@@ -80,7 +80,7 @@ The objective was to:
 * 📅 Strong **seasonality patterns** – peak demand in March–April and November–December
 * 🔁 Higher **return rates** linked to specific product categories and delivery delays
 * 📉 Customers with lower engagement show significantly reduced repeat purchases
-* 📦 Inventory imbalance identified (overstock vs. demand gaps)
+* 🔄 Return levels impact overall customer satisfaction
 * 🚚 Delivery delays negatively impact customer satisfaction and retention
 
 ---
