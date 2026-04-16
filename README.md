@@ -43,22 +43,22 @@ The objective was to:
 
 ### 💰 Revenue Performance Overview
 
-![Revenue](revenue.png)
+![Revenue](Images/revenue.png)
 
 ### 👥 Customer Insights
 
-![Customers](customers.png)
+![Clients](Images/clients.png)
 
 ### 🔁 Customer Behaviour & Retention
 ![Behaviour](Images/behaviour.png)
 
 ### 📦 Inventory & Demand Analysis
 
-![Inventory](inventory.png)
+![Returned](Images/returns.png)
 
 ### 🚚 Delivery Performance
 
-![Delivery](delivery.png)
+![Delivery](Images/delivery.png)
 
 ---
 
