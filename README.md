@@ -117,9 +117,9 @@ The objective was to:
 
 ## 📎 Project Files
 
-*   **[Power BI Dashboard](./Reports/Automotive_wholesaler.pbix)** – Full interactive report (PBIX file).
-*   **[SQL Deployment Script](./SQL_Scripts/Mateusz_Wojno_Logistics_DWH.sql)** – Complete DDL/DML script for database reconstruction.
-*   **[Business Presentation](./Documentation/Analiza_Mateusz_Wojno.pdf)** – Executive summary and key business insights (PDF).
+*   **[Power BI Dashboard](./Reports/MW.pbix)** – Full interactive report (PBIX file).
+*   **[SQL Deployment Script](./SQL_Scripts/Mateusz_Wojno_Automotive_Wholesaler.sql)** – Complete DDL/DML script for database reconstruction.
+*   **[Business Presentation](./Documentation/Bussiness_results.pdf)** – Executive summary and key business insights (PDF).
 
 ---
 
