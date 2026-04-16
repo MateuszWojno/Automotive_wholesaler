@@ -50,7 +50,7 @@ The objective was to:
 ![Customers](customers.png)
 
 ### 🔁 Customer Behaviour & Retention
-![Behaviour](images/behaviour.png)
+![Behaviour](Images/behaviour.png)
 
 ### 📦 Inventory & Demand Analysis
 
